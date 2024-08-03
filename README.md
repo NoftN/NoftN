@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @NoftN
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Lua, HTTML, and JavaScript.
+str11x reposts
